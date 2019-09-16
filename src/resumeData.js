@@ -22,8 +22,8 @@ let resumeData = {
           "className":"fab fa-instagram"
         },
         {
-          "name":"instagram",
-          "url":"https://www.instagram.com/izzy_t.612/",
+          "name":"spotify",
+          "url":"https://open.spotify.com/playlist/3P4uLtHTzXgs6IzlYJ2fTi",
           "className":"fab fa-spotify"
         }
       ],

@@ -242,8 +242,8 @@ ul#nav li.current a { color: #F06000; }
    overflow: hidden;
 }
 
-#resume a, #resume a:visited  { color: #11ABB0; }
-#resume a:hover, #resume a:focus { color: #313131; }
+#resume a, #resume a:visited  { color:white; }
+#resume a:hover, #resume a:focus { color: #c9b9b9; }
 
 #resume h1 {
    font: 18px/24px 'opensans-bold', sans-serif;
@@ -267,7 +267,7 @@ ul#nav li.current a { color: #F06000; }
    border-bottom: 1px solid #E8E8E8;
 }
 #resume .info {
-   font: 16px/24px 'librebaskerville-italic', serif;
+   font: 18px/24px 'opensans-regular', serif;
    color: #6E7881;
    margin-bottom: 18px;
    margin-top: 9px;
@@ -354,6 +354,37 @@ ul#nav li.current a { color: #F06000; }
   	width: 50%;
   	-moz-animation: jquery 2s ease;
   	-webkit-animation: jquery 2s ease;
+}
+
+.fa-html5{
+  color: Mediumslateblue;
+}
+.fa-css3-alt{
+  color: Mediumslateblue;
+}
+.fa-js-square{
+  color: Mediumslateblue;
+}
+
+.fa-react{
+  color: Mediumslateblue;
+}
+.fa-node-js{
+  color: Mediumslateblue;
+}
+.fa-npm{
+  color: Mediumslateblue;
+}
+
+.fa-bootstrap{
+  color: Mediumslateblue;
+}
+.fa-github-square{
+  color: Mediumslateblue;
+}
+
+.fa-dot-circle{
+  color: #11ABB0;
 }
 
 @-moz-keyframes photoshop {
