@@ -33,7 +33,7 @@ export default class Resume extends Component {
               })}
           </div>
 
-          <div className="columns download]">
+          <div className="columns download">
             <p>
               <a
                 href="https://docs.google.com/document/d/1aqfhbKqevJQfVxGPsBL4ncuDgd2vwbFBtIBmnZ_vYq0/edit"

@@ -469,8 +469,11 @@ input[type="button"] {
 	text-decoration: none;
    letter-spacing: 0;
    color: #fff;
-	padding: 12px 20px;
-	margin-bottom: 18px;
+   margin-left:30px;
+   margin-top:20px;
+   padding: 10px;
+	
+	
    border: none;
    cursor: pointer;
    height: auto;
