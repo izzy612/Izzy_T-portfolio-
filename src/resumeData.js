@@ -108,7 +108,7 @@ let resumeData = {
       },
       {
         "name":"Crystal Game",
-        "description":"mobileapp",
+        "description":"The objective of the game is to match the score of the random value the crystal its giving. If you match the score you'll win the game.",
         "imgurl": "images/portfolio/crystal.jpg",
         "url":"https://izzy612.github.io/unit-4-game/",
       }
