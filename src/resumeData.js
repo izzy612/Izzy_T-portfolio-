@@ -92,34 +92,28 @@ let resumeData = {
         "name":"Ticketify",
         "description":"A unique source to checkout upcoming concerts and music events hosted by the artists in your personal spotify library.",
         "imgurl": "images/portfolio/Ticketify.jpg",
-        "":"https://github.com/mpj1693/Ticketify",
+        "url":"https://mpj1693.github.io/Ticketify/",
       },
       {
         "name":"Overworkshop",
-        "description":"This app is based on a game called overwatch. It’s basically a reddit for that game, where players can type their unique code and describe it special feature that would change the rules of the game.",
-        "imgurl":"images/portfolio/overworkshop.jpg"
+        "description":"Players from overwatch can type their unique code and describe it special feature that would change the rules of the game.",
+        "imgurl": "images/portfolio/overworkshop.jpg",
+        "url":"https://overworkshop.herokuapp.com/",
       },
       {
         "name":"Trivia Game",
         "description":"A fun Bobs Burgers Trivia Game were players have to answer questions before time runs out. Correct and incorrect answers are displayed after each question",  
-        "imgurl":"images/portfolio/triviagame.jpg"
+        "imgurl":"images/portfolio/triviagame.jpg",
+        "url":"https://izzy612.github.io/TriviaGame/",
       },
       {
         "name":"Crystal Game",
         "description":"mobileapp",
-        "imgurl":"images/portfolio/crystal.jpg"
+        "imgurl": "images/portfolio/crystal.jpg",
+        "url":"https://izzy612.github.io/unit-4-game/",
       }
     ],
-    "testimonials":[
-      {
-        "description":"This is a sample testimonial",
-        "name":"Some technical guy"
-      },
-      {
-        "description":"This is a sample testimonial",
-        "name":"Some technical guy"
-      }
-    ]
+    
   }
   
   export default resumeData
