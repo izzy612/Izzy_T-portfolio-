@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/Izzy_T-portfolio-/precache-manifest.e072a2de029190c4717ade217775116a.js"
+  "/Izzy_T/precache-manifest.7555a0ea982bb96ecfeb0295696f882a.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/Izzy_T-portfolio-/index.html", {
+workbox.routing.registerNavigationRoute("/Izzy_T/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
