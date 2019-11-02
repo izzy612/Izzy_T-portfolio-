@@ -27,7 +27,7 @@ let resumeData = {
           "className":"fab fa-spotify"
         }
       ],
-    "aboutme":"I am solution-driven Full Stack Developer with a background in Hospitality Management proven ability to  excel in a highly collaborative work environment. Proficient in multiple programming languages and highly adept at learning new technologies. Bilingual and well-spoken with ability to oversee a team of exceptional developers. Graduate of the Rutgers University Web Development Coding Bootcamp.      I believe that to be successful in life, one needs to be obsessive with their dreams and keep working towards them.",
+    "aboutme":"I am a solution-driven Full Stack Developer with a background in Hospitality Management proven ability to  excel in a highly collaborative work environment. Proficient in multiple programming languages and highly adept at learning new technologies. Bilingual and well-spoken with ability to oversee a team of exceptional developers. Graduate of the Rutgers University Web Development Coding Bootcamp.      I believe that to be successful in life, one needs to be obsessive with their dreams and keep working towards them.",
     "address":"New Jersey",
   
   "website": "izzy612@gmail.com",
