@@ -2,6 +2,7 @@
   "name": "resume",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://izzy612.github.io/Izzy_T/",
   "dependencies": {
     "react": "^16.6.0",
     "react-dom": "^16.6.0",
@@ -12,7 +13,10 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+    
   },
   "eslintConfig": {
     "extends": "react-app"
